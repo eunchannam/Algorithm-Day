@@ -97,11 +97,3 @@ for _ in 0..<t{
 for result in result{
     print(result)
 }
-
-
-
-
-
-
-
-
